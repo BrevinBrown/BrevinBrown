@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrevinBrown
 - 👀 I’m interested gaming and embedded coding
-- 🌱 I’m currently learning embedded coding on ARM based contollers
+- 🌱 I’m currently learning ML and VHDL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
